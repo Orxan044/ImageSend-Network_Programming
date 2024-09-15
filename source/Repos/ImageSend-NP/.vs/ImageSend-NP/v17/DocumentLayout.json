@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\Repos\\ImageSend-NP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32654D00-17A6-4CDA-9529-DC82377C3BAB}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\imagesend-np\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32654D00-17A6-4CDA-9529-DC82377C3BAB}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D13C76-D13F-4B2A-815A-3247BF079AE2}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\imagesend-np\\server\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D13C76-D13F-4B2A-815A-3247BF079AE2}|Server\\Server.csproj|solutionrelative:server\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D13C76-D13F-4B2A-815A-3247BF079AE2}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\imagesend-np\\server\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68D13C76-D13F-4B2A-815A-3247BF079AE2}|Server\\Server.csproj|solutionrelative:server\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32654D00-17A6-4CDA-9529-DC82377C3BAB}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\imagesend-np\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32654D00-17A6-4CDA-9529-DC82377C3BAB}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Repos\\ImageSend-NP\\Server\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Server\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\Repos\\ImageSend-NP\\Server\\MainWindow.xaml",
+              "RelativeToolTip": "Server\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-15T06:38:43.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Repos\\ImageSend-NP\\Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\Repos\\ImageSend-NP\\Client\\MainWindow.xaml",
+              "RelativeToolTip": "Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-15T06:36:31.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Repos\\ImageSend-NP\\Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Repos\\ImageSend-NP\\Client\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Client\\MainWindow.xaml.cs*",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:24:46.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Repos\\ImageSend-NP\\Server\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Server\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Repos\\ImageSend-NP\\Server\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Server\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:24:09.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
